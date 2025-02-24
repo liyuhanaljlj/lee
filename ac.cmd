@@ -1,9 +1,6 @@
-@::u78r-random
 @set masver=beta 8.02
 @echo off
-@setlocal DisableDelayedExpansion
 chcp 65001
-
 
 ::  要激活Windows，请使用“/Z-Windows”参数运行脚本，或将下面一行中的0更改为1
 set _actwin=0
@@ -7360,4 +7357,3 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
-
